@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Miguel!
-### Backend: Java / Spring / Hibernate / Node / PHP / Python / SQL: MySQL, PostgreSQL / NoSQL: MongoDB / GCP
-### Frontend: JavaScript / TypeScript / Angular / HTML5 / CSS3
+### Backend: Java / Spring / Hibernate / Node / PHP / Python / SQL: MySQL, PostgreSQL, Oracle / NoSQL: MongoDB / GCP
+### Frontend: JavaScript / TypeScript / Angular / React / HTML5 / CSS3
 <!--
 **MiguelFFdz/MiguelFFdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
